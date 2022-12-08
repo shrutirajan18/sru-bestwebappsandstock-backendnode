@@ -1,0 +1,57 @@
+{"Stock": [{
+    "id":1,
+    "Company": "Company: Salesforce",
+    "Stock_Exchange":"Stock_Exchange: NYSE",
+    "Ticker_Symbol":"Ticker_Symbol: CRM",
+    "Price":"Price: $180",
+    "Founded_Year": "Founded_Year: 1999",
+    "Average_Volume" :"Average_Volume: 207845678",
+    "Market_Cap" :"Market_Cap: 14B"
+    
+
+},
+{
+"id":2,
+"Company": "Company: Amazon",
+"Stock_Exchange":"Stock_Exchange: NASDAQ",
+"Ticker_Symbol":"Ticker_Symbol: AMZN",
+"Price":"Price: $100",
+"Founded_Year": "Founded_Year: 1994",
+"Average_Volume" :"Average_Volume: 12489604",
+"Market_Cap" :"Market_Cap: 456B "
+
+},
+{
+"id":3,
+"Company": "Company: Apple",
+"Stock_Exchange":"Stock_Exchange: NASDAQ",
+"Ticker_Symbol":"Ticker_Symbol: AAPL",
+"Price":"Price: $198",
+"Founded_Year": "Founded_Year: 1976",
+"Average_Volume" :"Average_Volume: 3478956478",
+"Market_Cap" :"Market_Cap: 35B"
+
+},
+
+{
+"id":4,
+"Company": "Company: TESLA",
+"Stock_Exchange":"Stock_Exchange: NASDAQ",
+"Ticker_Symbol":"Ticker_Symbol: TSLA",
+"Price":"Price: $500",
+"Founded_Year": "Founded_Year: 2003",
+"Average_Volume" :"Average_Volume: 238954367",
+"Market_Cap" :"Market_Cap: 56B"
+
+},
+{
+"id":5,
+"Company": "Company: FACEBOOK",
+"Stock_Exchange":"Stock_Exchange: NASDAQ",
+"Ticker_Symbol":"Ticker_Symbol: META",
+"Price":"Price: $309",
+"Founded_Year": "Founded_Year: 2004",
+"Average_Volume" :"Average_Volume: 2895647",
+"Market_Cap" :"Market_Cap: 98B"
+
+}]}
